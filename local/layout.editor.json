@@ -1,0 +1,106 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 1924,
+      "y": 2,
+      "width": 1920,
+      "height": 1040,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 459,
+            "height": 922,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 459,
+                "height": 318,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ]
+              },
+              {
+                "width": 459,
+                "height": 601,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "assets"
+                ]
+              }
+            ]
+          },
+          {
+            "width": 458,
+            "height": 922,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "inspector"
+            ]
+          },
+          {
+            "width": 980.984375,
+            "height": 922,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 980.984375,
+                "height": 458,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "scene"
+                ]
+              },
+              {
+                "width": 980.984375,
+                "height": 461,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "inspector",
+        "scene",
+        "console",
+        "timeline",
+        "game-window"
+      ]
+    },
+    " common-asset-worker-worker": {},
+    "window-1718617677202": {}
+  },
+  "panels": {
+    "project-settings": {
+      "x": 672,
+      "y": 240,
+      "width": 600,
+      "height": 565
+    },
+    "preferences": {
+      "x": 672,
+      "y": 240,
+      "width": 600,
+      "height": 565
+    }
+  },
+  "panelLabelWidth": {}
+}
