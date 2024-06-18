@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9cf02f28-8863-4cdd-9021-14b6db8e7196",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 466,
+  "height": 569,
+  "platformSettings": {},
+  "subMetas": {
+    "敌方置牌位置-动画_1-000": {
+      "ver": "1.0.6",
+      "uuid": "a5f8bbd3-b976-477d-8a8f-9b9acc9da07b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9cf02f28-8863-4cdd-9021-14b6db8e7196",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 466,
+      "height": 569,
+      "rawWidth": 466,
+      "rawHeight": 569,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "826de9a1-5760-4295-b04e-8122b14293cd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 33,
+  "height": 29,
+  "platformSettings": {},
+  "subMetas": {
+    "玩法说明按钮-hover-000": {
+      "ver": "1.0.6",
+      "uuid": "0f1992cf-c1cf-40ac-9a2c-a96a33249c32",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "826de9a1-5760-4295-b04e-8122b14293cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 33,
+      "height": 29,
+      "rawWidth": 33,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

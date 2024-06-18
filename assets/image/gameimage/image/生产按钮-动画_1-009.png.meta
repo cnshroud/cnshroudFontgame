@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "519685c2-491a-47a1-9e78-08167c6e3644",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 139,
+  "height": 145,
+  "platformSettings": {},
+  "subMetas": {
+    "生产按钮-动画_1-009": {
+      "ver": "1.0.6",
+      "uuid": "00a53bca-9c80-4f31-993e-76f9a6e299aa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "519685c2-491a-47a1-9e78-08167c6e3644",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 139,
+      "height": 145,
+      "rawWidth": 139,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

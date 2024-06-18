@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "43d815c3-edc1-4a3d-85f1-163bb9b8957a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1419,
+  "height": 873,
+  "platformSettings": {},
+  "subMetas": {
+    "牌属性选择框背景-动画_1-000": {
+      "ver": "1.0.6",
+      "uuid": "da955825-5978-430f-b88f-3e0f7327cca0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "43d815c3-edc1-4a3d-85f1-163bb9b8957a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 10,
+      "trimY": 10,
+      "width": 1399,
+      "height": 853,
+      "rawWidth": 1419,
+      "rawHeight": 873,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

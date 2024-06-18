@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "daee1fd4-2e06-493b-a786-91a60d454331",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 477,
+  "height": 557,
+  "platformSettings": {},
+  "subMetas": {
+    "解锁卷轴-动画_1-000": {
+      "ver": "1.0.6",
+      "uuid": "41f6177e-4f37-4e93-8288-2f8a80b9c517",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "daee1fd4-2e06-493b-a786-91a60d454331",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 477,
+      "height": 557,
+      "rawWidth": 477,
+      "rawHeight": 557,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

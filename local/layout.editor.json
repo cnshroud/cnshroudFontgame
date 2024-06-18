@@ -85,8 +85,7 @@
         "game-window"
       ]
     },
-    " common-asset-worker-worker": {},
-    "window-1718617677202": {}
+    " common-asset-worker-worker": {}
   },
   "panels": {
     "project-settings": {
@@ -96,8 +95,8 @@
       "height": 565
     },
     "preferences": {
-      "x": 672,
-      "y": 240,
+      "x": 2269,
+      "y": 310,
       "width": 600,
       "height": 565
     }

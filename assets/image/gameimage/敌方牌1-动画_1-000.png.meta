@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d245f40e-008e-4e6f-ab48-5c8608bb6a18",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 204,
+  "height": 255,
+  "platformSettings": {},
+  "subMetas": {
+    "敌方牌1-动画_1-000": {
+      "ver": "1.0.6",
+      "uuid": "2ae1c038-b225-480e-bbd7-f26029c74ed0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d245f40e-008e-4e6f-ab48-5c8608bb6a18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 255,
+      "rawWidth": 204,
+      "rawHeight": 255,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

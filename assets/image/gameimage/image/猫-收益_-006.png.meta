@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "35be5b05-aea9-4759-917c-414a6c130e10",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 103,
+  "height": 105,
+  "platformSettings": {},
+  "subMetas": {
+    "猫-收益_-006": {
+      "ver": "1.0.6",
+      "uuid": "99e17633-02e4-4476-9238-6423855fe00c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "35be5b05-aea9-4759-917c-414a6c130e10",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 90,
+      "height": 104,
+      "rawWidth": 103,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

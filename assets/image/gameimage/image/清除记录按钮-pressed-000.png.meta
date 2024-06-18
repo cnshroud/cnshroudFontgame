@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "422ca1ad-4b2c-4b46-af7a-a60e6dfdd8af",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 249,
+  "height": 85,
+  "platformSettings": {},
+  "subMetas": {
+    "清除记录按钮-pressed-000": {
+      "ver": "1.0.6",
+      "uuid": "179e7091-19c8-4102-9d45-b65f3fbe87e0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "422ca1ad-4b2c-4b46-af7a-a60e6dfdd8af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 249,
+      "height": 85,
+      "rawWidth": 249,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

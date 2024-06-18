@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2591eb85-ce96-41ee-933e-d7a3a6f44dfa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 399,
+  "height": 155,
+  "platformSettings": {},
+  "subMetas": {
+    "未解锁商品-动画_1-000": {
+      "ver": "1.0.6",
+      "uuid": "eacae6a4-85e8-47b9-a04b-de3faeaf401e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2591eb85-ce96-41ee-933e-d7a3a6f44dfa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 399,
+      "height": 155,
+      "rawWidth": 399,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

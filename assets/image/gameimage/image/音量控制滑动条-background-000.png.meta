@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1070b9ef-7cbd-4d77-981b-863ff97e5680",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 865,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "音量控制滑动条-background-000": {
+      "ver": "1.0.6",
+      "uuid": "af53d6aa-2ca0-48ca-8c1a-d6567d5aabe1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1070b9ef-7cbd-4d77-981b-863ff97e5680",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 865,
+      "height": 37,
+      "rawWidth": 865,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
